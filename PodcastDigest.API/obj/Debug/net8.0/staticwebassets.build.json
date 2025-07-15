@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d8vujPNfZ/Y1PIcNyAP803f80yyVF6Sum2WdIjzV4LY=",
+  "Source": "PodcastDigest.API",
+  "BasePath": "_content/PodcastDigest.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

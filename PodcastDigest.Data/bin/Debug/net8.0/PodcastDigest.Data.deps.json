@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PodcastDigest.Data/1.0.0": {
+        "dependencies": {
+          "PodcastDigest.Models": "1.0.0"
+        },
+        "runtime": {
+          "PodcastDigest.Data.dll": {}
+        }
+      },
+      "PodcastDigest.Models/1.0.0": {
+        "runtime": {
+          "PodcastDigest.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PodcastDigest.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PodcastDigest.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

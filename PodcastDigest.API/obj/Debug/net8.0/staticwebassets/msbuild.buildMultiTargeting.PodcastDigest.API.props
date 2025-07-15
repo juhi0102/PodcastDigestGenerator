@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PodcastDigest.API.props" />
+</Project>

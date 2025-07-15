@@ -1,0 +1,11 @@
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\bin\Debug\net8.0\PodcastDigest.Models.deps.json
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\bin\Debug\net8.0\PodcastDigest.Models.dll
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\bin\Debug\net8.0\PodcastDigest.Models.pdb
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\obj\Debug\net8.0\PodcastDigest.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\obj\Debug\net8.0\PodcastDigest.Models.AssemblyInfoInputs.cache
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\obj\Debug\net8.0\PodcastDigest.Models.AssemblyInfo.cs
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\obj\Debug\net8.0\PodcastDigest.Models.csproj.CoreCompileInputs.cache
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\obj\Debug\net8.0\PodcastDigest.Models.dll
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\obj\Debug\net8.0\refint\PodcastDigest.Models.dll
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\obj\Debug\net8.0\PodcastDigest.Models.pdb
+C:\Users\creat\PodcastDigestGenerator\PodcastDigest.Models\obj\Debug\net8.0\ref\PodcastDigest.Models.dll

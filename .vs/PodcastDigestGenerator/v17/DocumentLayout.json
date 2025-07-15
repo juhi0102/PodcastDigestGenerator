@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\creat\\PodcastDigestGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\podcast-digest-ui\\src\\components\\YouTubeForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:podcast-digest-ui\\src\\components\\YouTubeForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Controllers\\PodcastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PodcastDigest.API\\Controllers\\PodcastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.Services\\TranscriptionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PodcastDigest.Services\\TranscriptionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\PythonScripts\\whisper_transcribe.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PythonScripts\\whisper_transcribe.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PodcastDigest.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Models\\UploadRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PodcastDigest.API\\Models\\UploadRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Models\\YoutubeRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PodcastDigest.API\\Models\\YoutubeRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\podcast-digest-ui\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:podcast-digest-ui\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\podcast-digest-ui\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:podcast-digest-ui\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.Services\\SummaryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PodcastDigest.Services\\SummaryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PodcastDigest.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PodcastDigest.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PodcastController.cs",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Controllers\\PodcastController.cs",
+              "RelativeDocumentMoniker": "PodcastDigest.API\\Controllers\\PodcastController.cs",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Controllers\\PodcastController.cs",
+              "RelativeToolTip": "PodcastDigest.API\\Controllers\\PodcastController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:57:58.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "whisper_transcribe.py",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\PythonScripts\\whisper_transcribe.py",
+              "RelativeDocumentMoniker": "PythonScripts\\whisper_transcribe.py",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\PythonScripts\\whisper_transcribe.py",
+              "RelativeToolTip": "PythonScripts\\whisper_transcribe.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-14T19:42:40.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YouTubeForm.jsx",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\podcast-digest-ui\\src\\components\\YouTubeForm.jsx",
+              "RelativeDocumentMoniker": "podcast-digest-ui\\src\\components\\YouTubeForm.jsx",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\podcast-digest-ui\\src\\components\\YouTubeForm.jsx",
+              "RelativeToolTip": "podcast-digest-ui\\src\\components\\YouTubeForm.jsx",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-15T13:13:18.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Program.cs",
+              "RelativeDocumentMoniker": "PodcastDigest.API\\Program.cs",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Program.cs",
+              "RelativeToolTip": "PodcastDigest.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:36:37.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TranscriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.Services\\TranscriptionService.cs",
+              "RelativeDocumentMoniker": "PodcastDigest.Services\\TranscriptionService.cs",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.Services\\TranscriptionService.cs",
+              "RelativeToolTip": "PodcastDigest.Services\\TranscriptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:48:31.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\podcast-digest-ui\\src\\App.jsx",
+              "RelativeDocumentMoniker": "podcast-digest-ui\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\podcast-digest-ui\\src\\App.jsx",
+              "RelativeToolTip": "podcast-digest-ui\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-15T13:13:40.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\podcast-digest-ui\\package.json",
+              "RelativeDocumentMoniker": "podcast-digest-ui\\package.json",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\podcast-digest-ui\\package.json",
+              "RelativeToolTip": "podcast-digest-ui\\package.json",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T13:25:42.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YoutubeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Models\\YoutubeRequest.cs",
+              "RelativeDocumentMoniker": "PodcastDigest.API\\Models\\YoutubeRequest.cs",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Models\\YoutubeRequest.cs",
+              "RelativeToolTip": "PodcastDigest.API\\Models\\YoutubeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:15:08.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UploadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Models\\UploadRequest.cs",
+              "RelativeDocumentMoniker": "PodcastDigest.API\\Models\\UploadRequest.cs",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Models\\UploadRequest.cs",
+              "RelativeToolTip": "PodcastDigest.API\\Models\\UploadRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:28:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PodcastDigest.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PodcastDigest.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T08:28:12.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SummaryService.cs",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.Services\\SummaryService.cs",
+              "RelativeDocumentMoniker": "PodcastDigest.Services\\SummaryService.cs",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.Services\\SummaryService.cs",
+              "RelativeToolTip": "PodcastDigest.Services\\SummaryService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:26:10.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PodcastDigest.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\creat\\PodcastDigestGenerator\\PodcastDigest.API\\appsettings.json",
+              "RelativeToolTip": "PodcastDigest.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T07:51:00.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

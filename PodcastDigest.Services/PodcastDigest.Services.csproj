@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\PodcastDigest.Models\PodcastDigest.Models.csproj" />
+    <ProjectReference Include="..\PodcastDigest.Data\PodcastDigest.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.7" />
+    <PackageReference Include="OpenAI-DotNet" Version="8.8.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>84c818b7-d4af-4d4d-9cc3-2ba42458533e</UserSecretsId>
+  </PropertyGroup>
+
+</Project>

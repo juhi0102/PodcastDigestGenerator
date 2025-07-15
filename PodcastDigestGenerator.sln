@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PodcastDigest.Web", "PodcastDigest.Web\PodcastDigest.Web.csproj", "{EEECFD5F-F0D2-4B36-9938-1FAB69727364}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PodcastDigest.API", "PodcastDigest.API\PodcastDigest.API.csproj", "{41CC3AAD-B7FE-4441-A7B2-77C97621C0E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PodcastDigest.Services", "PodcastDigest.Services\PodcastDigest.Services.csproj", "{54E967C7-F662-4A68-85EA-0B5D0935C813}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PodcastDigest.Models", "PodcastDigest.Models\PodcastDigest.Models.csproj", "{C9B3CE3D-D78E-47D9-A688-5F365D8FDF55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PodcastDigest.Data", "PodcastDigest.Data\PodcastDigest.Data.csproj", "{190DEA70-D6A5-4CDA-9FDD-B241AF84EC90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PythonScripts", "PythonScripts", "{E610AEE9-2D38-40C4-A02C-DC186A2284D6}"
+	ProjectSection(SolutionItems) = preProject
+		whisper_transcribe.py = whisper_transcribe.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEECFD5F-F0D2-4B36-9938-1FAB69727364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEECFD5F-F0D2-4B36-9938-1FAB69727364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEECFD5F-F0D2-4B36-9938-1FAB69727364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEECFD5F-F0D2-4B36-9938-1FAB69727364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CC3AAD-B7FE-4441-A7B2-77C97621C0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CC3AAD-B7FE-4441-A7B2-77C97621C0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CC3AAD-B7FE-4441-A7B2-77C97621C0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CC3AAD-B7FE-4441-A7B2-77C97621C0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E967C7-F662-4A68-85EA-0B5D0935C813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E967C7-F662-4A68-85EA-0B5D0935C813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E967C7-F662-4A68-85EA-0B5D0935C813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E967C7-F662-4A68-85EA-0B5D0935C813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B3CE3D-D78E-47D9-A688-5F365D8FDF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B3CE3D-D78E-47D9-A688-5F365D8FDF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B3CE3D-D78E-47D9-A688-5F365D8FDF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B3CE3D-D78E-47D9-A688-5F365D8FDF55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190DEA70-D6A5-4CDA-9FDD-B241AF84EC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190DEA70-D6A5-4CDA-9FDD-B241AF84EC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190DEA70-D6A5-4CDA-9FDD-B241AF84EC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190DEA70-D6A5-4CDA-9FDD-B241AF84EC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00876DA2-9530-4CCE-8DE2-91D1DF938073}
+	EndGlobalSection
+EndGlobal
