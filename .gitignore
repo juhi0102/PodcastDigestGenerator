@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+build/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+.env
