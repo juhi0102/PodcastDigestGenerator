@@ -81,6 +81,6 @@ In appsettings.json or through IConfiguration:
 ##Screenshot
 Here’s how the Podcast Digest Generator looks:
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot.jpg)
 
 
